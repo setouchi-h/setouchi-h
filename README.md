@@ -46,7 +46,7 @@
 
 ## 🛠️ Experience & Certifications
 
-- Developed enterprise-grade systems as an intern & freelance engineer at multiple companies.
+- Developed enterprise-grade systems, AI App, Dapps as an intern & freelance engineer at multiple companies.
 - 基本情報技術者試験
 
 ---
