@@ -29,7 +29,7 @@
 |:-:|---------|-------|------|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/2c/68/712c68f5-8de6-c4dc-dc6d-289618b62d47/AppIcon.lsr/460x0w.webp" width="48" /> | **Yuki Talk** | visionOS app with a real-time conversational 3D character, emotion-aware lip-sync & gestures.<br>[[App Store]](https://apps.apple.com/us/app/yuki-talk/id6742395367?platform=vision) | Swift / RealityKit / AI |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/f4/d8/49f4d8b4-7c4c-92a7-264b-511f99620e8c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/460x0w.webp" width="48" /> | **Text Enhancer** | AI writing assistant that polishes text.<br>[[App Store]](https://apps.apple.com/us/app/text-enhancer/id6745430882) | Swift / SwiftUI / AI |
-| <img src="https://github.com/setouchi-h/kaguya-contract/raw/main/images/logo.svg" width="48" /> | **KAGUYA** *(WIP)* | NFT marketplace enabling stablecoin-based payments for creators and fans. | Solidity / Next.js / Foundry|
+| <img src="/assets/images/kaguya-logo.svg" width="48" /> | **KAGUYA** *(WIP)* | NFT marketplace enabling stablecoin-based payments for creators and fans. | Solidity / Next.js / Foundry|
 | 🚧 | and so on | |
 
 ---
