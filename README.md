@@ -20,6 +20,7 @@
 | [UNDEFINED Hacker House Tokyo – TECHFUND Prize & JPYC Prize](https://app.akindo.io/hackathons/Z4laLKRWEs7z02Pv8) | NFT marketplace DApp for mass adaption of web3.<br>[[ハッカソン公式ページ]](https://app.akindo.io/hackathons/Z4laLKRWEs7z02Pv8) |
 | [Blockchain Hackathon for Students – 🏅 1st Place](https://prtimes.jp/main/html/rd/p/000000005.000111066.html) | DID-based identity DApp.<br>[[PR TIMES]](https://prtimes.jp/main/html/rd/p/000000005.000111066.html) |
 | [開発道場 (Google Cloud League) – Grand Prix](https://bangumi.gu3.co.jp/articles/841) | Gachapon-style NFT DApp.<br>[[記事]](https://bangumi.gu3.co.jp/articles/841) |
+| Apple Foundation Models Framework Hackathon – 🏆 Winner | Built a generative AI app leveraging Apple’s new LLM framework at the Melting Hack-hosted competition.<br>[公式イベントページ](https://melting-hack.connpass.com/event/368743/) |
 
 ---
 
