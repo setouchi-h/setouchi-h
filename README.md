@@ -15,12 +15,12 @@
 
 | Event & Prize | What I built / Link |
 |---------------|---------------------|
-| [Google Cloud League – Grand Prix](https://bangumi.gu3.co.jp/articles/841) | Gachapon-style NFT DApp.<br>[[記事]](https://bangumi.gu3.co.jp/articles/841) |
+| [Google Cloud League – Grand Prix](https://bangumi.gu3.co.jp/articles/841) | Gachapon-style NFT DApp. |
 | Apple Foundation Models Framework Hackathon – 🏆 Winner | Built a generative AI app leveraging Apple’s new LLM framework at the Melting Hack-hosted competition. |
-| [ETHGlobal Tokyo – Best Public Good with Account Abstraction](https://ethglobal.com/showcase/ayay-64zt9) | **AYAY** – a PayPay-like crypto wallet leveraging AA.<br>[[プロジェクト・受賞ページ]](https://ethglobal.com/showcase/ayay-64zt9) |
-| [AI＋Crypto Hackathon – Astar Prize](https://ai-crypto-hack.framer.website/) | On-chain revenue-sharing protocol turning labour into investment.<br>[[ハッカソン公式サイト]](https://ai-crypto-hack.framer.website/) |
-| [UNDEFINED Hacker House Tokyo – TECHFUND Prize & JPYC Prize](https://app.akindo.io/hackathons/Z4laLKRWEs7z02Pv8) | NFT marketplace DApp for mass adaption of web3.<br>[[ハッカソン公式ページ]](https://app.akindo.io/hackathons/Z4laLKRWEs7z02Pv8) |
-| [Blockchain Hackathon for Students – 🏅 1st Place](https://prtimes.jp/main/html/rd/p/000000005.000111066.html) | DID-based identity DApp.<br>[[PR TIMES]](https://prtimes.jp/main/html/rd/p/000000005.000111066.html) |
+| [ETHGlobal Tokyo – Best Public Good with Account Abstraction](https://ethglobal.com/showcase/ayay-64zt9) | **AYAY** – a PayPay-like crypto wallet leveraging AA. |
+| [AI＋Crypto Hackathon – Astar Prize](https://ai-crypto-hack.framer.website/) | On-chain revenue-sharing protocol turning labour into investment. |
+| [UNDEFINED Hacker House Tokyo – TECHFUND Prize & JPYC Prize](https://app.akindo.io/hackathons/Z4laLKRWEs7z02Pv8) | NFT marketplace DApp for mass adaption of web3. |
+| [Blockchain Hackathon for Students – 🏅 1st Place](https://prtimes.jp/main/html/rd/p/000000005.000111066.html) | DID-based identity DApp. |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 🛠️ Experience & Certifications
 
-- Developed **enterprise-grade systems**, **AI App**, **Web3 Dapps** as an intern & freelance engineer at multiple companies.
+- Developed **enterprise-grade systems**, **AI App**, **Web3 Dapps** as an engineer at multiple companies.
 - 基本情報技術者試験
 
 ---
